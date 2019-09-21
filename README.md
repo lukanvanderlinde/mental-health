@@ -1,12 +1,15 @@
-This essay is dedicated to the public domain with [Creative Commons Zero](https://creativecommons.org/choose/zero/)!
+Essa composição é dedicada ao domínio público com [Creative Commons Zero](https://creativecommons.org/choose/zero/)!
 
-# How To Translate:
+# Como Traduzir:
 
-To translate: two files, 4500 words in total.
+Traduzir: dois arquivos, 4500 palavras no total.
 
-1. *POST A GITHUB ISSUE letting folks know you're working on a translation.* This helps prevent conflict/multiple competing translations, and helps *you* find collaborators for the translation process!
-2. Find [the two-letter code of your target language](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes). Examples: Français → "fr", 中文 → "zh"
-3. Make a copy of `index.md`, and rename the file `[your 2-letter code].md`. Translate your file! Export it to html somewhere.
-4. Make a copy of `index.html`, and rename the file `[your 2-letter code].html`. Translate the `<head></head>` parts, then paste your exported html from Step 2 where it says to paste it.
-5. Make a Pull Request! (I am slow to respond, so you may have to wait a while before your translation is live)
-6. Party 🎉
+1. _PUBLIQUE UMA ISSUE NO GITHUB, avise as pessoas que você está trabalhando em uma tradução._ Isso ajuda a evitar conflitos e multiplas traduções na mesma lingua, além de te ajudar a encontrar colaboradores!
+2. Encontre o [código de duas letras referênte a sua lingua](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes). Exemplos: Français → "fr", 中文 → "zh"
+3. Faça uma cópia do `index.md` e altere o nome para `[código de duas letras].md`.
+4. Traduza o arquivo!
+5. Exporte para html.
+6. Faça uma cópia do `index.html` e altere o nome para `[código de duas letras].html`.
+7. Traduza o conteúdo dentro da tag `<head></head>` e cole o seu html exportado na etapa 5 no local demarcado.
+8. Faça um Pull Request! (Eu sou lento para responder, talvez você tenha que esperar um pouco antes de ter a sua tradução publicada)
+9. Se divirta! 🎉
