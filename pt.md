@@ -33,7 +33,7 @@ Para obter conselhos sobre saúde mental de fontes oficiais, em vez de uma pesso
 _Esse artigo é uma mistura de histórias pessoais com um pouco de ciência sobre saúde mental e dicas práticas. É uma leitura de 22-minutos, mas se você quiser, pode pular direto para as dicas práticas:_
 
 1. **[Um Velho Amigo](#toc_0)** (história)
-2. **[Minhas Tentativas de Terapia](#toc_1)** (história + teoria)
+2. **[As Minhas Tentativas de Terapia](#toc_1)** (história + teoria)
 3. **[O Propósito da Dor e a Função dos Sentimentos](#toc_2)** (teoria)
 4. **[Hábitos 101](#toc_3)** (teoria + prática)
 5. **[9 Hábitos Saudáveis para a Mente Baseados em Evidências](#toc_4)** (💥**a parte realmente útil**💥)
@@ -79,49 +79,49 @@ Alguns meses depois eu escutei uma voz familiar, a voz de um velho amigo:
 
 ---
 
-# Minhas Tentativas de Terapia
+# As Minhas Tentativas de Terapia
 
-If this was a movie, that should've been the point I realized the value of fear.
+Se isso fosse um filme, esse seria o momento que eu percebi o valor do medo.
 
-Nope. I learnt nothing.
+Nah. Eu não aprendi nada.
 
-It did, however, inspire me to _finally_ try psychotherapy. I first tried [Cognitive Behavioral Therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (CBT), which [meta-analyses have shown](https://onlinelibrary.wiley.com/doi/full/10.1002/da.20829) is as good or better than medications for depression & anxiety. The therapy recommends "challenging your thoughts" by pointing out all the irrational "cognitive distortions" in your fears. (🤓 “Well, _Actually_...”)
+Entretanto, esse capítulo _finalmente_ me inspirou a fazer terapia. Eu primeiro tentei [Terapia Cognitiva Comportamental](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (TCC), que algumas [análises mostraram](https://onlinelibrary.wiley.com/doi/full/10.1002/da.20829) que é tão bom ou melhor que medicações para depressão e ansiedade. A terapia recomenda "desafiar os seus pensamentos", apontando tudo que parece irracional (distorções cognitivas) em seus medos. (🤓 “Então, _na realidade_...”)
 
-CBT helped me a lot, but I quickly hit a plateau. My problem was I used CBT as a _weapon_ against my fear. I still thought of fear as my _enemy_.
+TCC me ajudou bastante, mas não demorou muito para atingir um platô. O problema foi que eu usei o TCC como uma _arma_ contra os meus medos. Eu ainda pensava que o medo era meu _inimigo_.
 
-Next, I tried a [mindfulness](https://en.wikipedia.org/wiki/Mindfulness)-based therapy – specifically, [Acceptance & Commitment Therapy](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy) – which recommends _not_ fighting your thoughts, but just letting your feelings pass by. (Metaphor I was told: anxiety's like quicksand – the more you struggle, the quicker you sink. Therefore: don't struggle.)
+Em seguida, eu tentei praticar uma terapia baseada em [mindfulness](https://en.wikipedia.org/wiki/Mindfulness), especificadamente a [Terapia de Aceitação e Comprometimento](https://en.wikipedia.org/wiki/Acceptance_and_commitment_therapy), que recomenda _não_ lutar contra os pensamentos, apenas deixar os seus sentimentos passarem por você. (Metáfora: ansiedade é igual areia movediça - quanto mais você se move, mais rápido você afunda. Portanto: não se mova.)
 
-Again, I used mindfulness as just another way to _ignore_ my fear. Fear was _still_ my enemy.
+Outra vez, eu usei o mindfulness como ferramenta para _ignorar_ o meu medo. O medo _ainda era_ meu inimigo.
 
-It took me a _decade_ to finally figure it out, but fear is––
+Levou mais de uma _década_ para eu realmente descobrir que o medo é––
 
-Hang on, my wolf wants to say something:
+Rapidão, meu lobo quer dizer alguma coisa:
 
-> 🐺 Nicky, CBT and mindfulness have helped _millions_ of people, and are backed by _hundreds_ of studies. Who are _we_ to poop all over what saves peoples' _lives?!_
+> 🐺 Nicky, TCC e mindfulness conseguiram ajudar _milhões_ de pessoas e são estruturadas em cima de _centenas_ de estudos. Quem a gente é para cagar em cima dessas técnicas que salvam pessoas' _vidas?!_
 
-Thanks, wolf! That's a very good concern you've brought up.
+Obrigado, lobo! Essa é preocupação muito boa que você levantou.
 
-I want to clarify: CBT and mindfulness _does_ help people. They helped _me_ immensely.
+Eu gostaria de clarear uma coisa: TCC e mindfulness _ajuda_ centenas de pessoas e _me_ ajudou imensamente.
 
-But no technique will fully work if you believe that fear is an _enemy_ to be "overcome" or "conquered". Or an annoying thing to "mindfully" put up with. As I was saying earlier: it took me a decade to finally figure it out, but fear is not an enemy.
+Mas nenhuma técnica vai funcionar perfeitamente se você acreditar que medo é um _inimigo_ a ser "derrotado", "conquistado" ou uma coisa irritante para "mindfully" aturar. Como eu estava dizendo antes: levei uma década para finalmente descobrir, mas o medo não é um inimigo.
 
-Fear is a _friend._
+O medo é um _amigo._
 
 ---
 
 # O Propósito da Dor e a Função dos Sentimentos
 
-"Fear is a friend"?! That sounds stupid – even _morally offensive_ – to someone with near-daily panic attacks. So why am _I_, someone who knows this pain, saying something like _that?_
+"Medo é um amigo"?! Isso soa estupido - até _moralmente ofencivo_ - para alguem com ataques frequêntes de pânico. Por que _eu_, alguem que conhece a dor, diria uma coisa _dessas_?
 
-To understand this, imagine putting your hand on a lit stove.
+Para entender isso, imagine colocar a mão no forno quente.
 
 🔥👋😰
 
-Obviously: it would hurt.
+Obviamente: vai doer.
 
-Less obvious: it's a _good thing_ that it would hurt.
+Não tão obvio: doer é uma _coisa boa_.
 
-Pain is an alarm system. It tells you when things are bad, _which is good._
+Dor é um sistema de alarme. Te avisa quando as coisas estão ruim, e quando _estão boas_.
 
 (FUN FACT: There's a rare condition called [congenital insensitivity to pain](https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain), where people can't feel pain. As a result, adults with the condition have lots of wounds, burns, and broken bones. They're the lucky ones – the rest are dead.)
 
