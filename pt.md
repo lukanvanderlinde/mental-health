@@ -2,13 +2,13 @@
 
 O [Centro de Valorização da Vida](http://www.cvv.org.br/) é uma ONG de apoio à prevenção emocional e suicida fundada em 1962 em São Paulo, e reconhecida como Utilidade Pública Federal em 1973. Oferece suporte voluntário e gratuito, com todas as comunicações sendo confidenciais. Os contatos podem ser feitos através do número de telefone 188 ou 141 (disponível 24 horas por dia, 7 dias por semana), pessoalmente (em um dos 72 centros em todo o país), bate-papo (pelo site), VoIP (via Skype) e e-mail.
 
-**BR:** [Centro de Valorização da Vida](http://www.cvv.org.br/), ligue: 188 ou 144.
-**BR:** Central de Atendimento à Mulher, ligue: 180.
-**BR:** Policia Militar, ligue: 190.
-**BR:** Policia Rodoviária Federal, ligue: 191.
-**BR:** Serviço de Atendimento Móvel de Urgência (SAMU), ligue: 192.
-**BR:** Corpo de Bombeiros, ligue: 193.
-**PT:** [Voz de Apoio](http://www.vozdeapoio.pt/), ligue: 225 50 60 70
+**BR:** [Centro de Valorização da Vida](http://www.cvv.org.br/), ligue: 188 ou 144.  
+**BR:** Central de Atendimento à Mulher, ligue: 180.  
+**BR:** Policia Militar, ligue: 190.  
+**BR:** Policia Rodoviária Federal, ligue: 191.  
+**BR:** Serviço de Atendimento Móvel de Urgência (SAMU), ligue: 192.  
+**BR:** Corpo de Bombeiros, ligue: 193.  
+**PT:** [Voz de Apoio](http://www.vozdeapoio.pt/), ligue: 225 50 60 70  
 
 Para outros países, [veja a lista no Wikipedia](https://simple.wikipedia.org/wiki/List_of_suicide_crisis_lines).
 
