@@ -60,7 +60,7 @@ Com apenas 4 passos mentais, um ônibus que nunca apareceu me deixou 100% _conve
 
 É por essas e outras que eu nunca levo a sério o ditado, "confie nos seus instintos." Ou, "seus sentimentos são verdadeiros." Imagine essa cena:
 
-> Seu amigo: Eu me sinto inútil, como se eu fosse um incômodo para todo mundo. Eu sinto profundamente que sou uma pessoa má e inevitavelmente arruinado.
+> Seu amigo: Eu me sinto inútil, como se eu fosse um incômodo para todo mundo. Eu sinto profundamente que sou uma pessoa má e inevitavelmente quebrada.
 
 > Você: Seus sentimentos são verdadeiros! :D
 
@@ -72,7 +72,7 @@ E encontrei! Eu fui atrás de encontros aleatórios e sexo desprotegido para sil
 
 (FATO CURIOSO: Em 1994, neurocientistas encontraram [uma mulher com as duas amigdalas destruídas](<https://en.wikipedia.org/wiki/S.M._(patient)>). Ela era uma mulher sem medo. Sem ansiedade. Sem preocupações. E exatamente por isso que ela foi vítima de abusos, assaltos e quase morreu diversas vezes.)
 
-Felizmente, meus amigos estavam preocupados comigo – sentindo medo em _meu_ lugar, e foi quando percebi que eu estava com muito medo de sentir medo. (A unica coisa a se temer é o medo em sí, não é?) Meus amigos me ajudaram a perceber que a situação era _sim_ abusiva, e me tiraram dela.
+Felizmente, meus amigos estavam preocupados _comigo_ – sentindo medo em _meu_ lugar, e foi quando percebi que eu estava com muito medo de sentir medo. (A unica coisa a se temer é o medo em sí, não é?) Meus amigos me ajudaram a perceber que a situação era _sim_ abusiva, e me tiraram dela.
 
 Alguns meses depois eu escutei uma voz familiar, a voz de um velho amigo:
 
@@ -184,7 +184,7 @@ So... how _do_ you train your dog?
 
 ---
 
-# O Básico sobre Hábitos
+# O Básico Sobre Hábitos
 
 To train a dog, first: don't beat the dog. Don't fear fear itself.
 
