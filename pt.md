@@ -34,11 +34,7 @@ Para obter conselhos sobre saúde mental de fontes oficiais, em vez de uma pesso
 _Esse artigo é uma mistura de histórias pessoais com um pouco de ciência sobre saúde mental e dicas práticas. É uma leitura de 22-minutos, mas se você quiser, pode pular direto para as dicas práticas:_
 
 1. **[Um Velho Amigo](#toc_0)** (história)
-<<<<<<< HEAD
-2. **[Minhas Tentativas de Terapia](#toc_1)** (história & teoria)
-=======
-2. **[As Minhas Tentativas de Terapia](#toc_1)** (história + teoria)
->>>>>>> e2b36960787a360e78ebab505e7a0c692911e9a9
+2. **[As Minhas Tentativas de Terapia](#toc_1)** (história & teoria)
 3. **[O Propósito da Dor e a Função dos Sentimentos](#toc_2)** (teoria)
 4. **[O Básico Sobre Hábitos](#toc_3)** (teoria & prática)
 5. **[9 Hábitos Saudáveis para a Mente Baseados em Evidências](#toc_4)** (💥**a parte realmente útil**💥)
