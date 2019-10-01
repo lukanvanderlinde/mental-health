@@ -82,7 +82,7 @@ Alguns meses depois eu escutei uma voz familiar, a voz de um velho amigo:
 
 # As Minhas Tentativas de Terapia
 
-Se isso fosse um filme, esse seria o momento que eu percebi o valor do medo.
+Se isso fosse um filme, esse seria o momento que eu perceberia o valor do medo.
 
 Nah. Eu não aprendi nada.
 
@@ -94,17 +94,17 @@ Em seguida, eu tentei praticar uma terapia baseada em [mindfulness](https://en.w
 
 Outra vez, eu usei o mindfulness como ferramenta para _ignorar_ o meu medo. O medo _ainda era_ meu inimigo.
 
-Levou mais de uma _década_ para eu realmente descobrir que o medo é––
+Levou mais de uma _década_ para eu realmente descobrir que o medo é, na verdade––
 
 Rapidão, meu lobo quer dizer alguma coisa:
 
-> 🐺 Nicky, TCC e mindfulness conseguiram ajudar _milhões_ de pessoas e são estruturadas em cima de _centenas_ de estudos. Quem a gente é para cagar em cima dessas técnicas que salvam pessoas' _vidas?!_
+> 🐺 Nicky, TCC e mindfulness conseguiram ajudar _milhões_ de pessoas e são estruturadas em cima de _centenas_ de estudos. Quem a gente é para cagar em cima dessas técnicas que salvam a _vida_ de tantas pessoas?!
 
-Obrigado, lobo! Essa é preocupação muito boa que você levantou.
+Obrigado, lobo! Você levantou uma questão muito importante.
 
 Eu gostaria de clarear uma coisa: TCC e mindfulness _ajuda_ centenas de pessoas e _me_ ajudou imensamente.
 
-Mas nenhuma técnica vai funcionar perfeitamente se você acreditar que medo é um _inimigo_ a ser "derrotado", "conquistado" ou uma coisa irritante para "mindfully" aturar. Como eu estava dizendo antes: levei uma década para finalmente descobrir, mas o medo não é um inimigo.
+Mas nenhuma técnica vai funcionar perfeitamente se você acreditar que o medo é um _inimigo_ a ser "derrotado", "conquistado" ou uma coisa irritante para ser aturada. Como eu estava dizendo antes: levei uma década para finalmente descobrir, mas o medo não é um inimigo.
 
 O medo é um _amigo._
 
@@ -122,7 +122,7 @@ Obviamente: vai doer.
 
 Não tão obvio: doer é uma _coisa boa_.
 
-Dor é um sistema de alarme. Te avisa quando as coisas estão ruim, e quando _estão boas_.
+Dor é um sistema de alarme. Te avisa quando as coisas estão ruins, e quando _estão boas_.
 
 (FUN FACT: There's a rare condition called [congenital insensitivity to pain](https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain), where people can't feel pain. As a result, adults with the condition have lots of wounds, burns, and broken bones. They're the lucky ones – the rest are dead.)
 
