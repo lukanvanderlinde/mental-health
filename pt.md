@@ -1,15 +1,16 @@
-**Se você pensa em se machucar, por favor, ligue para um dos telefones abaixo. A ligação é gratuita, confidencial e funcionam 24/7:**
+**Se você já pensou em fazer algo contra si mesmo, por favor, ligue para um dos telefones abaixo. A ligação é gratuita, confidencial e eles funcionam 24 horas por dia:**
 
 O [Centro de Valorização da Vida](http://www.cvv.org.br/) é uma ONG de apoio à prevenção emocional e suicida fundada em 1962 em São Paulo, e reconhecida como Utilidade Pública Federal em 1973. Oferece suporte voluntário e gratuito, com todas as comunicações sendo confidenciais. Os contatos podem ser feitos através do número de telefone 188 ou 141 (disponível 24 horas por dia, 7 dias por semana), pessoalmente (em um dos 72 centros em todo o país), bate-papo (pelo site), VoIP (via Skype) e e-mail.
 
-**BR:** [Centro de Valorização da Vida](http://www.cvv.org.br/), ligue: 188 ou 144.
-**BR:** Central de Atendimento à Mulher, ligue: 180.
-**BR:** Policia Militar, ligue: 190.
-**BR:** Policia Rodoviária Federal, ligue: 191.
-**BR:** Serviço de Atendimento Móvel de Urgência (SAMU), ligue: 192.
-**BR:** Corpo de Bombeiros, ligue: 193.
+**BR:** [Centro de Valorização da Vida](http://www.cvv.org.br/), ligue: 188 ou 144.  
+**BR:** Central de Atendimento à Mulher, ligue: 180.  
+**BR:** Policia Militar, ligue: 190.  
+**BR:** Policia Rodoviária Federal, ligue: 191.  
+**BR:** Serviço de Atendimento Móvel de Urgência (SAMU), ligue: 192.  
+**BR:** Corpo de Bombeiros, ligue: 193.  
+**PT:** [Voz de Apoio](http://www.vozdeapoio.pt/), ligue: 225 50 60 70  
 
-Para todos os países, [veja a lista no Wikipedia](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines).
+Para outros países, [veja a lista no Wikipedia](https://simple.wikipedia.org/wiki/List_of_suicide_crisis_lines).
 
 Para obter conselhos sobre saúde mental de fontes oficiais, em vez de uma pessoa aleatória na Internet como eu ou conhecer mais sobre voluntariado, apoio emocional, prevenção do suicídio, saúde mental e outros temas afins, acesse:
 
@@ -33,25 +34,25 @@ Para obter conselhos sobre saúde mental de fontes oficiais, em vez de uma pesso
 _Esse artigo é uma mistura de histórias pessoais com um pouco de ciência sobre saúde mental e dicas práticas. É uma leitura de 22-minutos, mas se você quiser, pode pular direto para as dicas práticas:_
 
 1. **[Um Velho Amigo](#toc_0)** (história)
-2. **[As Minhas Tentativas de Terapia](#toc_1)** (história + teoria)
+2. **[As Minhas Tentativas de Terapia](#toc_1)** (história & teoria)
 3. **[O Propósito da Dor e a Função dos Sentimentos](#toc_2)** (teoria)
-4. **[Hábitos 101](#toc_3)** (teoria + prática)
+4. **[O Básico Sobre Hábitos](#toc_3)** (teoria & prática)
 5. **[9 Hábitos Saudáveis para a Mente Baseados em Evidências](#toc_4)** (💥**a parte realmente útil**💥)
-6. **[TL;DR](#toc_18)** (sumário completo)
-7. **[Eu & Meu Lobo](#toc_19)** (história)
+6. **[Resumindo...](#toc_18)** (sumário completo de tudo até então)
+7. **[Eu e Meu Lobo](#toc_19)** (história)
 8. **[Conteúdos Extras](#toc_20)** (prática)
 
 ---
 
 # Um Velho Amigo
 
-Eu lembro do meu primeiro ataque de pânico. Aconteceu quando eu estava no ponto de ônibus. Eu tinha acabado de me mudar para uma nova cidade e o ônibus nunca apareceu. Então o pequeno lobo dentro da minha cabeça falou:
+Eu lembro do meu primeiro ataque de pânico. Aconteceu quando eu estava no ponto de ônibus. Eu tinha acabado de me mudar para uma nova cidade e o ônibus nunca aparecia. Então o pequeno lobo dentro da minha cabeça falou:
 
 > 🐺 Estamos num lugar novo e nem conseguimos descobrir como o transporte público funciona?
 >
 > 🐺 Isso significa que não vamos conseguir fazer novos amigos! Ou chegar em casa com segurança! Ou comprar as coisas que a gente precisa para sobreviver!
 >
-> 🐺 Espera, o nosso coração está palpitando? Nós não conseguimos nem respirar?! A nossa família não tem historico de ataque do coração?!?! AI MEU DEUS esse é o nosso fim?!?!?!
+> 🐺 Espera, por quê nosso coração está palpitando desse jeito? Por quê nós não conseguimos respirar?! A nossa família não tem historico de ataque do coração?!?! AI MEU DEUS esse é o nosso fim?!?!?!
 >
 > 🐺 AAAAAHHHHH
 
@@ -59,19 +60,19 @@ Com apenas 4 passos mentais, um ônibus que nunca apareceu me deixou 100% _conve
 
 É por essas e outras que eu nunca levo a sério o ditado, "confie nos seus instintos." Ou, "seus sentimentos são verdadeiros." Imagine essa cena:
 
-> Seu amigo: Eu me sinto inútil, como se fosse um incômodo para todo mundo. Eu sinto profundamente que sou uma pessoa má e inevitavelmente quebrada.
+> Seu amigo: Eu me sinto inútil, como se eu fosse um incômodo para todo mundo. Eu sinto profundamente que sou uma pessoa má e inevitavelmente quebrada.
 
 > Você: Seus sentimentos são verdadeiros! :D
 
-Por outro lado, eu confio nas _outras_ frases: "Emoções são irracionais." "A única coisa a temer é o medo em sí." "Não se preocupe, seja feliz!"
+Por outro lado, eu confio em _outros_ provérbios, como: "Emoções são irracionais." "A única coisa a temer é o medo em sí." "Não se preocupe, seja feliz!"
 
-Pensando nisso, eu busquei algumas formas de acabar com o meu medo.
+Pensando nisso, eu busquei por formas de acabar com o meu medo.
 
-E funcionou! Eu fui atrás de encontros aleatórios e sexo desprotegido para silenciar o meu cerebro gritando. Finalmente, agora que eu consegui ignorar todos os meus medos... Eu entrei de cabeça em várias situações abusivas e perigosas.
+E encontrei! Eu fui atrás de encontros aleatórios e sexo desprotegido para silenciar o meu cerebro gritando. Finalmente, agora que eu consegui ignorar todos os meus medos... Acabei entrando de cabeça em várias situações abusivas e perigosas.
 
 (FATO CURIOSO: Em 1994, neurocientistas encontraram [uma mulher com as duas amigdalas destruídas](<https://en.wikipedia.org/wiki/S.M._(patient)>). Ela era uma mulher sem medo. Sem ansiedade. Sem preocupações. E exatamente por isso que ela foi vítima de abusos, assaltos e quase morreu diversas vezes.)
 
-Felizmente, meus amigos estavam preocupados _comigo_, sentindo medo _por_ mim, foi quando percebi que eu estava com muito medo de sentir medo. (A unica coisa a se temer é o medo em sí, não é mesmo?) Meus amigos me ajudaram a perceber que a situação _estava_ abusiva e me tiraram dela.
+Felizmente, meus amigos estavam preocupados _comigo_ – sentindo medo em _meu_ lugar, e foi quando percebi que eu estava com muito medo de sentir medo. (A unica coisa a se temer é o medo em sí, não é?) Meus amigos me ajudaram a perceber que a situação era _sim_ abusiva, e me tiraram dela.
 
 Alguns meses depois eu escutei uma voz familiar, a voz de um velho amigo:
 
@@ -81,7 +82,7 @@ Alguns meses depois eu escutei uma voz familiar, a voz de um velho amigo:
 
 # As Minhas Tentativas de Terapia
 
-Se isso fosse um filme, esse seria o momento que eu percebi o valor do medo.
+Se isso fosse um filme, esse seria o momento que eu perceberia o valor do medo.
 
 Nah. Eu não aprendi nada.
 
@@ -93,17 +94,17 @@ Em seguida, eu tentei praticar uma terapia baseada em [mindfulness](https://en.w
 
 Outra vez, eu usei o mindfulness como ferramenta para _ignorar_ o meu medo. O medo _ainda era_ meu inimigo.
 
-Levou mais de uma _década_ para eu realmente descobrir que o medo é––
+Levou mais de uma _década_ para eu realmente descobrir que o medo, na verdade é––
 
 Rapidão, meu lobo quer dizer alguma coisa:
 
-> 🐺 Nicky, TCC e mindfulness conseguiram ajudar _milhões_ de pessoas e são estruturadas em cima de _centenas_ de estudos. Quem a gente é para cagar em cima dessas técnicas que salvam pessoas' _vidas?!_
+> 🐺 Nicky, TCC e mindfulness conseguiram ajudar _milhões_ de pessoas e são estruturadas em cima de _centenas_ de estudos. Quem a gente é para cagar em cima dessas técnicas que salvam a _vida_ de tantas pessoas?!
 
-Obrigado, lobo! Essa é preocupação muito boa que você levantou.
+Obrigado, lobo! Você levantou uma questão muito importante.
 
 Eu gostaria de clarear uma coisa: TCC e mindfulness _ajuda_ centenas de pessoas e _me_ ajudou imensamente.
 
-Mas nenhuma técnica vai funcionar perfeitamente se você acreditar que medo é um _inimigo_ a ser "derrotado", "conquistado" ou uma coisa irritante para "mindfully" aturar. Como eu estava dizendo antes: levei uma década para finalmente descobrir, mas o medo não é um inimigo.
+Mas nenhuma técnica vai funcionar perfeitamente se você acreditar que o medo é um _inimigo_ a ser "derrotado", "conquistado" ou uma coisa irritante para ser aturada. Como eu estava dizendo antes: levei uma década para finalmente descobrir, mas o medo não é um inimigo.
 
 O medo é um _amigo._
 
@@ -121,7 +122,7 @@ Obviamente: vai doer.
 
 Não tão obvio: doer é uma _coisa boa_.
 
-Dor é um sistema de alarme. Te avisa quando as coisas estão ruim, e quando _estão boas_.
+Dor é um sistema de alarme. Te avisa quando as coisas estão ruins, e quando _estão boas_.
 
 (FUN FACT: There's a rare condition called [congenital insensitivity to pain](https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain), where people can't feel pain. As a result, adults with the condition have lots of wounds, burns, and broken bones. They're the lucky ones – the rest are dead.)
 
@@ -183,7 +184,7 @@ So... how _do_ you train your dog?
 
 ---
 
-# Hábitos 101
+# O Básico Sobre Hábitos
 
 To train a dog, first: don't beat the dog. Don't fear fear itself.
 
@@ -366,7 +367,7 @@ Good point! Let's refresh the reader's memory with a summary:
 
 ---
 
-# TL;DR
+# Resumindo...
 
 - **Do not fear fear itself.**
 - Pain is a protector.
@@ -382,7 +383,7 @@ Good point! Let's refresh the reader's memory with a summary:
 
 ---
 
-# Eu & Meu Lobo
+# Eu e Meu Lobo
 
 If this was a movie, I should've learnt to befriend my wolf in a shocking moment of catharsis, with explosions in the background. That would have made a good story.
 
