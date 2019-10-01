@@ -94,7 +94,7 @@ Em seguida, eu tentei praticar uma terapia baseada em [mindfulness](https://en.w
 
 Outra vez, eu usei o mindfulness como ferramenta para _ignorar_ o meu medo. O medo _ainda era_ meu inimigo.
 
-Levou mais de uma _década_ para eu realmente descobrir que o medo é, na verdade––
+Levou mais de uma _década_ para eu realmente descobrir que o medo, na verdade é––
 
 Rapidão, meu lobo quer dizer alguma coisa:
 
