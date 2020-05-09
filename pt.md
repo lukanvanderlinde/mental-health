@@ -121,20 +121,20 @@ Obviamente: vai doer.
 
 Não tão obvio: doer é uma _coisa boa_.
 
-Dor é um sistema de alarme. Te avisa quando as coisas estão ruim, e quando _estão boas_.
+Dor é um sistema de alarmes. Te avisa quando as coisas estão ruins, e quando _estão boas_.
 
-(FUN FACT: There's a rare condition called [congenital insensitivity to pain](https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain), where people can't feel pain. As a result, adults with the condition have lots of wounds, burns, and broken bones. They're the lucky ones – the rest are dead.)
+(FATO CURIOSO: Há uma condição rara chamada [insensibilidade congênita à dor](https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain), onde as pessoas não podem sentir dor. Como resultado, adultos com a condição tem um monte de feridas, queimaduras, e ossos quebrados. Eles são os sortudos – os outros estão mortos.)
 
-However, you'd also want an alarm system to go off _before_ harm is done. This alarm system is called "fear". It's an alarm that predicts – and tries to protect you from – _future_ harm.
+No entanto, você também gostaria que um sistema de alarmes disparasse _antes_ que danos sejam causados. Este sistema de alarme é chamado "medo". É um alarme que prevê – e tenta proteger você de – dano _futuro_.
 
-Harm to what? Your fundamental human needs:
+Dano à o que? Suas necessidades humanas fundamentais:
 
-1. **Physical Needs** – survival, health, safety  
-   (When threatened: 🐺 “We're in danger!”)
-2. **Social Needs** – friends, family, lovers  
-   (When threatened: 🐺 “Nobody likes us!”)
-3. **"Becoming A Better Person" Needs** – learning, character growth, doing good for others  
-   (When threatened: 🐺 “We're a bad person!”)
+1. **Necessidades Físicas** – sobrevivência, saúde, segurança  
+   (Quando ameaçado: 🐺 “Nós estamos em perigo!”)
+2. **Necessidades Sociais** – amigos, família, amantes  
+   (Quando ameaçado: 🐺 “Ninguém gosta de nós!”)
+3. **Necessidades de "Tornar-se uma pessoa melhor"** – aprendizagem, crescimento do caráter, fazer o bem para os outros  
+   (Quando ameaçado: 🐺 “Nós somos uma pessoa má!”)
 
 (This list of needs is <span style="text-decoration:line-through">something I pulled out my bum</span> a condensed version of [Maslow's hierarchy](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) + [Self-Determination Theory [pdf]](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf))
 
