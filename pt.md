@@ -136,15 +136,15 @@ Dano à o que? Suas necessidades humanas fundamentais:
 3. **Necessidades de "Tornar-se uma pessoa melhor"** – aprendizagem, crescimento do caráter, fazer o bem para os outros  
    (Quando ameaçado: 🐺 “Nós somos uma pessoa má!”)
 
-(This list of needs is <span style="text-decoration:line-through">something I pulled out my bum</span> a condensed version of [Maslow's hierarchy](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) + [Self-Determination Theory [pdf]](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf))
+(Esta lista de necessidades é <span style="text-decoration:line-through">algo que tirei do meu bumbum</span> uma versão condensada de [Hierarquia de Maslow](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) + [Teoria da Autodeterminação [pdf]](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf))
 
-Here's my conjecture. It's not original, hundreds have said it before, but it still took me forever to learn:
+Aqui está a minha conjectura. Não é original, centenas já disseram isso antes, mas ainda me levou uma eternidade para aprender:
 
-**🚨 ALL FEELINGS ARE IMPERFECT SIGNALS ABOUT MET & UNMET NEEDS. 🚨**
+**🚨 TODOS OS SENTIMENTOS SÃO SINAIS IMPERFEITOS SOBRE NECESSIDADES ATENDIDAS & NÃO ATENDIDAS. 🚨**
 
-This is the [functionalist view of emotions](https://en.wikipedia.org/wiki/Functional_accounts_of_emotion). But, what do I mean by "signal"?
+Esta é a [visão funcionalista das emoções](https://en.wikipedia.org/wiki/Functional_accounts_of_emotion). Mas, o que eu quero dizer com "sinal"?
 
-Imagine a cafe. When a customer arrives, the bell above the entrance door gives a _ding_ signal.
+Imagine um café. Quando um cliente chega, a campainha acima da porta de entrada emite um sinal _sonoro_.
 
 Likewise, when a body/mind need is met – or is about to – we feel a Pleasure signal: joy, anticipation, curiosity, the "Aha!" moment, pride.
 
