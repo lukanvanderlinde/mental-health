@@ -146,11 +146,11 @@ Esta é a [visão funcionalista das emoções](https://en.wikipedia.org/wiki/Fun
 
 Imagine um café. Quando um cliente chega, a campainha acima da porta de entrada emite um sinal _sonoro_.
 
-Likewise, when a body/mind need is met – or is about to – we feel a Pleasure signal: joy, anticipation, curiosity, the "Aha!" moment, pride.
+Da mesma forma, quando uma necessidade do corpo/mente é satisfeita – ou está prestes a ser – nós sentimos um sinal de Prazer: alegria, antecipação, curiosidade, o momento "Aha!", orgulho.
 
-Imagine a cafe's smoke alarm. When something in the kitchen is burning, it gives a _BEEP BEEP BEEP_ signal.
+Imagine o detector de fumaça de um café. Quando algo na cozinha está queimando, ele emite um _BEEP BEEP BEEP_.
 
-Likewise, when a body/mind need is _not_ being met – or is being threatened – we feel a Pain signal: fear, loneliness, frustration, guilt, grief.
+Da mesma forma, quando uma necessidade do corpo/mente _não_ está sendo satisfeita – ou está sendo ameaçada – nós sentimos um sinal de Dor: medo, solidão, frustração, culpa, tristeza.
 
 But wait, isn't this just the same as "your feelings are always valid"? No, because _all signals can have false alarms_. Thus, negative feelings aren't _always_ valid, but they aren't _always_ irrational either. They're clues – not to be taken as 100% literal truth, but not to be thrown out entirely either. (Have an over-sensitive alarm? We'll see how to "re-calibrate" your signals with Hábitos, in the next section)
 
