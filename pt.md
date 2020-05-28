@@ -152,22 +152,22 @@ Imagine o detector de fumaça de um café. Quando algo na cozinha está queimand
 
 Da mesma forma, quando uma necessidade do corpo/mente _não_ está sendo satisfeita – ou está sendo ameaçada – nós sentimos um sinal de Dor: medo, solidão, frustração, culpa, tristeza.
 
-But wait, isn't this just the same as "your feelings are always valid"? No, because _all signals can have false alarms_. Thus, negative feelings aren't _always_ valid, but they aren't _always_ irrational either. They're clues – not to be taken as 100% literal truth, but not to be thrown out entirely either. (Have an over-sensitive alarm? We'll see how to "re-calibrate" your signals with Hábitos, in the next section)
+Mas espere, isso não é o mesmo que que "seus sentimentos são sempre válidos"? Não, porque _todos os alarmes podem ter alarmes falsos_. Assim, sentimentos negativos não são _sempre_ válidos, mas eles também não são _sempre_ irracionais. São pistas - que não devem ser consideradas como 100% verdade literal, mas também não devem ser totalmente descartadas. (Tem um alarme com sensibilidade excessiva? Veremos como "recalibrar" seus sinais com o Hábitos, na próxima seção)
 
-All my life, I thought mentally healthy people were just better at "coping" with "negative" emotions. _The very vocabulary of this idea is wrong._ **The mentally healthy don't "cope" with emotions, they collaborate _with_ them. They know how to listen to, act on, and re-calibrate the signals.**
+Durante toda minha vida, pensei que pessoas mentalmente saudáveis eram apenas melhores em "lidar" com emoções "negativas". _O próprio vocabulário dessa idéia está errado._ **Os mentalmente saudáveis não "lidam" com emoções, eles colaboram _com_ elas. Eles sabem ouvir, agir, e recalibrar os sinais.**
 
-When the smoke alarm goes off:
+Quando o alarme de fumaça dispara:
 
-- A healthy person knows to turn off the stove, open a window, and put baking soda over the grease fire. If the alarm's too sensitive, they'll move it somewhere further.
-- An anxious person throws water over the grease fire and makes it worse. Or plugs their ears to not hear the alarm. Or smashes the alarm with a hammer. Or tries to rationally argue with the alarm about its distortions. Or decides to "mindfully" ignore it.
+- Uma pessoa saudável sabe desligar o fogão, abrir uma janela e colocar bicarbonato de sódio sobre o óleo pegando fogo. Se o alarme estiver muito sensível, eles o moverão para outro lugar.
+- Uma pessoa ansiosa joga água sobre o óleo pegando fogo e piora. Ou tapa os ouvidos para não ouvir o alarme. Ou esmaga o alarme com um martelo. Ou tenta argumentar racionalmente com o alarme sobre suas distorções. Ou decide "conscientemente" ignorá-lo.
 
-Once I understood feelings = alarms & signals, I realized a lot of what I thought were emotions' bugs were actually features! "Negative" emotions turn on by themselves and you can't turn them off at will – _this is a good feature for an automatic smoke detector._ "Positive" emotions never last, they always re-adjust themselves to your new normal – _this is a good feature for smart thermostats._
+Depois que entendi que sentimentos = alarmes e sinais, percebi que muito do que pensava que fossem bugs das emoções, na verdade, eram funcionalidades! As emoções "negativas" são ativadas por si mesmas e você não pode desativá-las à vontade - _esta é uma boa funcionalidade para um detector de fumaça automático._ As emoções "positivas" nunca duram, elas sempre se reajustam ao seu novo normal - _estes é um bom recurso para termostatos inteligentes._
 
-A good life is not about minimizing Pain and maximizing Pleasure. That's like a cafe whose goal to minimize alarms & maximize entrance-bell-ringing. Feelings are _NOT_ the ends, they are the _means_ to the ends: a fulfilling life.
+Uma vida boa não é minimizar a dor e maximizar o prazer. Isso é como um café cujo objetivo é minimizar alarmes e maximizar o toque da campainha da entrada. Os sentimentos _NÃO_ são os fins, são os _meios_ para os fins: uma vida gratificante.
 
-So that's why I claim "fear is not an enemy, it's a friend." But what kind of friend is fear? The "Man's [sic] Best Friend" kind. In a sentence:
+É por isso que afirmo que "o medo não é um inimigo, é um amigo". Mas que tipo de amigo é o medo? O tipo "Melhor amigo do homem". Em uma frase:
 
-**🐺 FEAR IS A GUARD DOG FOR YOUR NEEDS. 🐺**
+**🐺 O MEDO É UM CÃO DE GUARDA PARA SUAS NECESSIDADES. 🐺**
 
 When it yaps “nobody likes us!” it's trying (however badly) to protect your need for belonging. When it yaps “we're bad people!” it's trying (very poorly) to protect your need for personal growth.
 
