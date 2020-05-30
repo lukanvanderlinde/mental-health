@@ -169,17 +169,17 @@ Uma vida boa não é minimizar a dor e maximizar o prazer. Isso é como um café
 
 **🐺 O MEDO É UM CÃO DE GUARDA PARA SUAS NECESSIDADES. 🐺**
 
-When it yaps “nobody likes us!” it's trying (however badly) to protect your need for belonging. When it yaps “we're bad people!” it's trying (very poorly) to protect your need for personal growth.
+Quando ele grita "ninguém gosta de nós!" está tentando (por pior que esteja) proteger sua necessidade de pertencer. Quando ele grita "somos pessoas más!" está tentando (muito mal) proteger sua necessidade de crescimento pessoal.
 
-(The idea of a sub-agent in your mind isn't as wacky as it sounds – this thought's popped up independently in several fields: ["System 1 and System 2"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) in behavioral economics, ["The Elephant & The Rider"](https://en.wikipedia.org/wiki/The_Righteous_Mind) in social psychology, ["The Society of Mind"](https://en.wikipedia.org/wiki/Society_of_Mind) in cognitive science, etc)
+(A ideia de um subagente em sua mente não é tão excêntrica quanto parece - esse pensamento surgiu independentemente em vários campos: ["Sistema 1 e Sistema 2"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) em economia comportamental, ["O Elefante e o Cavaleiro"](https://en.wikipedia.org/wiki/The_Righteous_Mind) em psicologia social, ["A Sociedade da Mente"](https://en.wikipedia.org/wiki/Society_of_Mind) em ciências cognitivas, etc.)
 
-However, maybe you have a hyperactive dog that barks at shadows. It's not the dog's fault. Maybe in the past, it's been abused or neglected. But the dog genuinely wants to help you! That's its literal evolved function!
+No entanto, talvez você tenha um cachorro hiperativo que late nas sombras. Não é culpa do cachorro. Talvez no passado ele tenha sido abusado ou negligenciado. Mas o cão realmente quer ajudá-lo! Essa é sua função literal evoluída!
 
-It yaps because it's a battered shelter dog, and it needs you to help it heal.
+Ele grita porque é um cão de abrigo maltratado, e precisa de você para ajudá-lo a se curar.
 
-Sadly, many people's first response to the loud dog – including mine – was to lash out at it. But you can't beat the meanness out of a dog, or scare the fear out of it. (Note: [this is also true for literal dog-training [pdf]](http://dogscouts.org/base/tonto-site/uploads/2014/10/620_art_training_methods.pdf).)
+Infelizmente, a primeira resposta de muitas pessoas ao cachorro barulhento - incluindo a minha - foi atacá-lo. Mas você não pode derrotar a maldade de um cachorro ou assustar seu medo. (Nota: [isso também se aplica ao treinamento real de cães [pdf]](http://dogscouts.org/base/tonto-site/uploads/2014/10/620_art_training_methods.pdf).)
 
-So... how _do_ you train your dog?
+Então... _como_ se treina seu cachorro?
 
 ---
 
