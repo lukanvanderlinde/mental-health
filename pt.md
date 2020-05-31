@@ -125,7 +125,7 @@ Dor é um sistema de alarmes. Te avisa quando as coisas estão ruins, e quando _
 
 (FATO CURIOSO: Há uma condição rara chamada [insensibilidade congênita à dor](https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain), onde as pessoas não podem sentir dor. Como resultado, adultos com a condição tem um monte de feridas, queimaduras, e ossos quebrados. Eles são os sortudos – os outros estão mortos.)
 
-No entanto, você também gostaria que um sistema de alarmes disparasse _antes_ que danos sejam causados. Este sistema de alarme é chamado "medo". É um alarme que prevê – e tenta proteger você de – dano _futuro_.
+No entanto, você também quer que um sistema de alarmes dispare _antes_ que danos sejam causados. Este sistema de alarme é chamado "medo". É um alarme que prevê – e tenta proteger você de – dano _futuro_.
 
 Dano à o que? Suas necessidades humanas fundamentais:
 
